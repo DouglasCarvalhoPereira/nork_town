@@ -4,6 +4,8 @@ Nork-Town is a weird place. Crows cawk the misty morning while old men squint. I
 
 Carford car shop want a system where they can add car owners and cars. Car owners may not have cars yet, they need to be marked as a sale opportunity. Cars cannot exist in the system without owners.
 
+If you want to contribute the code, feel free. I couldn't run docker compose and ended up delivering the project in an env.
+
 ## Technologies 
 
 - Python
